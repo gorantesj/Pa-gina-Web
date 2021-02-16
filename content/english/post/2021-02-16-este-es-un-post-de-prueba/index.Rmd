@@ -1,0 +1,11 @@
+---
+title: Este es un post de prueba
+author: Morant
+date: '2021-02-16'
+slug: []
+categories:
+  - R
+tags:
+  - Advice
+---
+
