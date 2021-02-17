@@ -1,5 +1,5 @@
 baseURL: https://elated-borg-f6de32.netlify.app
-title: Airspace | Creative Agency Hugo Template
+title: Morant | Ciencia de datos
 theme: airspace-hugo
 paginate: '4'
 summaryLength: '30'
@@ -28,7 +28,7 @@ params:
   google_analitycs_id: ''
   location: North Main Street,Brooklyn Australia
   logo: images/logo.png
-  logo_width: 150px
+  logo_width: 50px
   mobile: 0124857985320
   multi_author: no
   nav_button:
@@ -71,7 +71,7 @@ params:
     - icon: ion-social-dribbble-outline
       link: '#'
     - icon: ion-social-twitter-outline
-      link: '#'
+      link: '# @DatosMorant'
     - icon: ion-social-facebook-outline
       link: '#'
   widgets:
