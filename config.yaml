@@ -1,4 +1,4 @@
-baseURL: http://examplesite.org
+baseURL: https://elated-borg-f6de32.netlify.app
 title: Airspace | Creative Agency Hugo Template
 theme: airspace-hugo
 paginate: '4'
