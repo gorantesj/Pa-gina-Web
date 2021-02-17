@@ -26,10 +26,10 @@ params:
     map_longitude: '-0.1622023'
     map_marker: images/marker.png
   google_analitycs_id: ''
-  location: North Main Street,Brooklyn Australia
+  location: Av. Insurgentes Sur 1605, San José Insurgentes, Benito Juárez, 03900 Ciudad de México, CDMX
   logo: images/logo.png
-  logo_width: 50px
-  mobile: 0124857985320
+  logo_width: 75px
+  mobile: 5545219894
   multi_author: no
   nav_button:
     enable: yes
@@ -71,7 +71,7 @@ params:
     - icon: ion-social-dribbble-outline
       link: '#'
     - icon: ion-social-twitter-outline
-      link: '# @DatosMorant'
+      link: 'https://twitter.com/DatosMorant'
     - icon: ion-social-facebook-outline
       link: '#'
   widgets:
@@ -84,37 +84,37 @@ Languages:
     contentDir: content/english
     copyright: Copyright &copy; 2020 [Themefisher](https://themefisher.com) All Rights
       Reserved
-    languageCode: en-us
+    languageCode: es-us
     languageName: En
     menu:
       footer:
         - URL: about
-          name: About
+          name: Acerca de nosotros
           weight: 1
         - URL: project
-          name: Project
+          name: Proyectos
           weight: 2
         - URL: service
-          name: Service
+          name: Servicios
           weight: 3
         - URL: pricing
-          name: Pricing
+          name: Cursos
           weight: 4
         - URL: faq
           name: FAQ
           weight: 5
         - URL: contact
-          name: Contact
+          name: Contacto
           weight: 6
       main:
         - URL: /
           name: Home
           weight: 1
         - URL: about
-          name: About
+          name: Acerca de nosotros
           weight: 2
         - URL: project
-          name: Project
+          name: Proyectos
           weight: 3
         - URL: blog
           name: Blog
