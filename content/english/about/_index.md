@@ -1,6 +1,6 @@
 ---
 bg_image: images/featue-bg.jpg
-description: this is meta description
+description: Estos somos...
 draft: false
-title: About Our Company
+title: Acerca de nosotros
 ---
