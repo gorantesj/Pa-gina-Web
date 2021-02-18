@@ -1,0 +1,10 @@
+---
+title: Otro post de prueba
+author: Morant
+date: '2021-02-17'
+slug: []
+categories: []
+tags: []
+---
+
+Este es otro post de prueba
