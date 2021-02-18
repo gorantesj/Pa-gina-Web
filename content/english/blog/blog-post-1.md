@@ -12,8 +12,10 @@ tags:
 - Technology
 title: How To Wear Bright Shoes
 type: post
+runtime: shiny
 ---
 
+<iframe height="800" width="100%" frameborder="no" src="https://datos.morant.com.mx/telectoral_Cliente/"> </iframe>
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit vitae placeat ad architecto nostrum asperiores
 vel aperiam, veniam eum nulla. Maxime cum magnam, adipisci architecto quibusdam cumque veniam fugiat quae. Lorem
