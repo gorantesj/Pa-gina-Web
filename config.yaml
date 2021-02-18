@@ -85,7 +85,7 @@ Languages:
     copyright: Copyright &copy; 2020 [Themefisher](https://themefisher.com) All Rights
       Reserved
     languageCode: es-us
-    languageName: En
+    languageName: Es
     menu:
       footer:
         - URL: about
@@ -159,7 +159,7 @@ Languages:
           name: FAQ
           weight: 5
         - URL: contact
-          name: Contact
+          name: Contacto
           weight: 6
       main:
         - URL: /
@@ -187,6 +187,6 @@ Languages:
           name: Un service
           parent: Pages
         - URL: contact
-          name: Contact
+          name: Contacto
           weight: 6
     weight: 2
