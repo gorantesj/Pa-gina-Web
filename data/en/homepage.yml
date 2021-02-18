@@ -2,7 +2,7 @@
 banner:
   enable : true
   bg_image : "images/slider-bg.jpg"
-  bg_overlay : false
+  bg_overlay : true
   title : "Ciencia de Datos <br/> Política & Gobierno"
   content : "Tú generas los datos. Nosotros los analizamos e interpretamos para que tú tomes deciones informadas."
   button:
