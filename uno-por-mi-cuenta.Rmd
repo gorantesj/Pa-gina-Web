@@ -1,15 +1,13 @@
 ---
-title: Mi app
-author: Morant
-date: '2021-02-17'
-slug: []
-categories: []
-tags: []
-runtime: shiny
+title: "Mi app"
+author: "Gerardo Orantes"
+date: "2/17/2021"
 output: html_document
+runtime: shiny
 ---
 
-
-Donde está mi app?
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
 
 <iframe height="800" width="100%" frameborder="no" src="https://datos.morant.com.mx/telectoral_Cliente/"> </iframe>
