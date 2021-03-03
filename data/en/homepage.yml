@@ -4,7 +4,7 @@ banner:
   bg_image : "images/slider-bg.jpg"
   bg_overlay : true
   title : "Ciencia de Datos <br/> Política & Gobierno"
-  content : "Tú generas los datos. Nosotros los analizamos e interpretamos para que tú tomes deciones informadas."
+  content : "Transformamos tus datos en decisiones "
   button:
     enable : true
     label : "Conoce nuestro proyecto"
@@ -14,12 +14,10 @@ banner:
 about:
   enable : true
   title : "Acerca de nosotros"
-  description : "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the
-              blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics"
-  content : "Somos una consultora enfocada en creación, exploración, ordenamiento y análisis de datos.
-  Utilizamos métodos de estadística bayesiana, de aprendizaje estadístico e inteligencia artificial.
-  Creamos sinergia con nuestros clientes para conseguir sus objetivos.
-  Nos distingue la innovación y la implementación de herramientas y tecnologías propias para una toma de decisiones eficaz. "
+  description : "Somos un equipo multidiscplinaria, formado en 2014, que tiene como propósito la
+  "
+  content : "Nos distingue la innovación y la implementación de herramientas y tecnologías propias para una toma de decisiones eficaz. Creemos que para cada problema existen
+  "
   image : "images/wrapper-img.png"
 
 
@@ -27,7 +25,7 @@ about:
 portfolio:
   enable : true
   bg_image : "images/featue-bg.jpg"
-  title : "WE BELIEVE IN GREAT IDEAS"
+  title : "Tomar decisiones con datos"
   content : "
   Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
 
