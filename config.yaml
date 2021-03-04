@@ -98,7 +98,7 @@ Languages:
           name: Servicios
           weight: 3
         - URL: pricing
-          name: Cursos
+          name: Cotiza
           weight: 4
         - URL: faq
           name: FAQ
