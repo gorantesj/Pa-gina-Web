@@ -40,48 +40,46 @@ featured_service:
 service:
   enable : true
   title : "Nuestros servicios"
-  description : "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, <br> there live the
-          blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics"
+  description : "Utilizamos diferentes plataformas que complementen nuestros servicios, estamos certificados y avalados por Rstudio cómo especialistas para crear contenido propio."
   service_item:
     # service item loop
-    - icon : ion-coffee #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
+    - icon : ios7-compose-outline #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
       name: Encuestas
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+      content: "A partir de cuestionarios estructurados identificamos y describimos perfiles en la población de estudio"
 
     # service item loop
-    - icon : ion-compass #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
+    - icon : ion-chatboxes #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
       name: Opinómetro
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+      content: "Aplicación web que facilitan la elaboración y aplicación de encuestas"
 
     # service item loop
-    - icon : ion-image #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
+    - icon : ios7-cog #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
       name: Tableros de control
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+      content: "Nuestras aplicaciones web ayudan a la planeación y administración estratégica de los proyectos"
 
     # service item loop
-    - icon : ion-bug #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
+    - icon : university #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
       name: Cursos
       content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
 
     # service item loop
-    - icon : ion-headphone #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
+    - icon : compass #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
       name: Consultoría
       content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
 
     # service item loop
-    - icon : ion-leaf #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
+    - icon : ios7-paper-outline #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
       name: Minería de textos
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
-
+      content: "Extraemos información relevante de cantidades extensas de textos, que no se encuentra de forma explícita"
     # service item loop
-    - icon : ion-planet #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
+    - icon : Android-locate #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
       name: Análisis electorales
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+      content: "Identificamos tendencias partidarias a partir de los resultados históricos de votación."
 
     # service item loop
-    - icon : ion-earth #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
+    - icon : stats-bars #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
       name: Análisis estadísticos
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+      content: "Traducimos un conjunto de datos a una forma comprensible e interpretable."
 
 ############################# call to action #################################
 cta:

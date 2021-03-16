@@ -28,7 +28,7 @@ params:
   google_analitycs_id: ''
   location: Av. Insurgentes Sur 1605, San José Insurgentes, Benito Juárez, 03900 Ciudad de México, CDMX
   logo: images/logo.png
-  logo_width: 75px
+  logo_width: 55px
   mobile: 5545219894
   multi_author: no
   nav_button:

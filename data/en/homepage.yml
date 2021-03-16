@@ -16,9 +16,7 @@ about:
   title : "Acerca de nosotros"
   description : "Somos un equipo multidiscplinario, formado en 2014. Nacimos con la intención de aplicar tecnología y procedimiento matemáticos a problemas de las Ciencias Sociales.
   En particular, nos enfocamos en proveer soluciones en Política y Gobierno."
-
-  content : "Nos distingue la innovación y la implementación de herramientas y tecnologías propias para una toma de decisiones eficaz. Creemos que para cada problema existen"
-
+  content : "Nos distingue la innovación y la implementación de herramientas y tecnologías propias para una toma de decisiones eficaz."
   image : "images/wrapper-img.png"
 
 
@@ -28,14 +26,13 @@ portfolio:
   bg_image : "images/featue-bg.jpg"
   title : "Tomar decisiones con datos"
   content : "
-  Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+  Ayudamos a desbloquear el potencial completo de los datos a través de métodos de estadística bayesiana,
+  de aprendizaje estadístico e inteligencia artificial, para asistir a la toma de decisiones.
 
+  Proveemos servicios de consultoría política hasta la construcción, implementación y soporte de aplicaciones web.
 
-  Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
-
-
-  Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
   "
+
   button:
     enable : true
     label : "Conoce nuestros trabajos"
