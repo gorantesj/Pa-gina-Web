@@ -120,19 +120,19 @@ Languages:
           name: Blog
           weight: 4
         - hasChildren: yes
-          name: Pages
+          name: Páginas
           weight: 5
         - URL: faq
           name: FAQ
-          parent: Pages
+          parent: Páginas
         - URL: pricing
           name: Pricing
-          parent: Pages
+          parent: Páginas
         - URL: service
           name: Service
-          parent: Pages
+          parent: Páginas
         - URL: contact
-          name: Contact
+          name: Contacto
           weight: 6
     weight: 1
   fr:

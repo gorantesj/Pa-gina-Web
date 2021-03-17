@@ -1,6 +1,6 @@
 ---
 bg_image: images/featue-bg.jpg
-description: this is meta description
+description: Conoce algunos de los proyectos en los que hemos participado
 draft: false
-title: Our Project
+title: Nuestros proyectos
 ---

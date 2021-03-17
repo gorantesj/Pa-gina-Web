@@ -1,6 +1,6 @@
 ---
 bg_image: images/featue-bg.jpg
-description: this is meta description
+description: Tú generas los datos. Nosotros los analizamos e interpretamos para que tú tomes decisiones informadas.
 draft: false
-title: Drop Us A Note
+title: Contáctanos
 ---
