@@ -58,12 +58,12 @@ service:
       content: "Nuestras aplicaciones web ayudan a la planeación y administración estratégica de los proyectos"
 
     # service item loop
-    - icon : university #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
+    - icon : ion-university #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
       name: Cursos
       content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
 
     # service item loop
-    - icon : compass #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
+    - icon : ion-compass #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
       name: Consultoría
       content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
 
@@ -72,12 +72,12 @@ service:
       name: Minería de textos
       content: "Extraemos información relevante de cantidades extensas de textos, que no se encuentra de forma explícita"
     # service item loop
-    - icon : Android-locate #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
+    - icon : ion-android-locate #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
       name: Análisis electorales
       content: "Identificamos tendencias partidarias a partir de los resultados históricos de votación."
 
     # service item loop
-    - icon : stats-bars #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
+    - icon : ion-stats-bars #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
       name: Análisis estadísticos
       content: "Traducimos un conjunto de datos a una forma comprensible e interpretable."
 

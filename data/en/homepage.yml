@@ -7,7 +7,7 @@ banner:
   content : "Transformamos tus datos en decisiones</b>"
   button:
     enable : true
-    label : "Conoce nuestro proyecto"
+    label : "Conoce nuestros proyectos"
     link : "project"
 
 ############################# About #################################
