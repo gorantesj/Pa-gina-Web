@@ -43,7 +43,7 @@ service:
   description : "Utilizamos diferentes plataformas que complementen nuestros servicios, estamos certificados y avalados por Rstudio cómo especialistas para crear contenido propio."
   service_item:
     # service item loop
-    - icon : ios7-compose-outline #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
+    - icon : ion-ios-compose-outline #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
       name: Encuestas
       content: "A partir de cuestionarios estructurados identificamos y describimos perfiles en la población de estudio"
 
@@ -53,7 +53,7 @@ service:
       content: "Aplicación web que facilitan la elaboración y aplicación de encuestas"
 
     # service item loop
-    - icon : ios7-cog #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
+    - icon : ion-ios-cog #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
       name: Tableros de control
       content: "Nuestras aplicaciones web ayudan a la planeación y administración estratégica de los proyectos"
 
@@ -68,7 +68,7 @@ service:
       content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
 
     # service item loop
-    - icon : ios7-paper-outline #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
+    - icon : ion-ios-paper-outline #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
       name: Minería de textos
       content: "Extraemos información relevante de cantidades extensas de textos, que no se encuentra de forma explícita"
     # service item loop
